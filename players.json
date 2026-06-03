@@ -1,0 +1,18 @@
+[
+  { "number": 10,  "name": "Nilo M",    "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 11,  "name": "Leon S",     "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 4,  "name": "Leon M",       "school": "International School of the Stockholm Region", "team": "Boys Senior"  },
+  { "number": 14,  "name": "Bence GK",     "school": "International School of the Stockholm Region", "team": "Boys Senior"  },
+  { "number": 19,  "name": "Ruben L",       "school": "International School of the Stockholm Region", "team": "Boys Senior"  },
+  { "number": 15,  "name": "Keiran F",    "school": "International School of the Stockholm Region", "team": "Boys Senior"  },
+  { "number": 8,  "name": "Adrian",        "school": "International School of the Stockholm Region","team": "Boys Senior"  },
+  { "number": 12, "name": "Ali",     "school": "International School of the Stockholm Region", "team": "Boys Senior"  },
+  { "number": 7, "name": "Noah HS",    "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 2, "name": "Otto ",    "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 13, "name": "Anton",    "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 3, "name": "Max K",   "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 5, "name": "Ruzgar K",  "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 0, "name": "Vikram V",  "school": "International School of the Stockholm Region", "team": "Boys Senior" },
+  { "number": 1, "name": "Noah F",  "school": "International School of the Stockholm Region", "team": "Boys Senior" }
+
+]
