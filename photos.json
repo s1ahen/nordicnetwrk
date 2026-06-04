@@ -1,6 +1,11 @@
 [
   {
     "path": "photos/matches/DSC_0747.jpeg",
-    "numbers": [7, 10, 23]
+    "numbers": [7, 10, 23, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+  },
+  {
+    "match": "Match 1 vs IES",
+    "path": "photos/matches/DSC_0747 copy 4.jpeg",
+    "team_photo": { "school": "SIS", "team": "Boys Senior" }
   }
 ]
