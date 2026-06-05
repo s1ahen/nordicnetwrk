@@ -1,0 +1,33 @@
+
+name: Generate photos.json
+
+on:
+  push:
+    paths:
+      - 'photos/**'   # only runs when something in photos/ changes
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit photos.json back to the repo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate photos.json
+        run: node generate-photos.js
+
+      - name: Commit updated photos.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add photos.json
+          git diff --staged --quiet || git commit -m "chore: update photos.json [skip ci]"
+          git push
