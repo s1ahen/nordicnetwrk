@@ -498,8 +498,6 @@
       19
     ]
   },
-
-
   {
     "match": "ISSR v BISM",
     "path": "photos/ISSR v BISM/DSC_1686.jpg",
@@ -531,7 +529,6 @@
       9
     ]
   },
-
   {
     "match": "ISSR v BISM",
     "path": "photos/ISSR v BISM/DSC_1732.jpg",
@@ -566,7 +563,6 @@
       8
     ]
   },
-
   {
     "match": "ISSR v BISM",
     "path": "photos/ISSR v BISM/DSC_1767.jpg",
@@ -973,7 +969,6 @@
       5
     ]
   },
-
   {
     "match": "ISSR v ISGR",
     "path": "photos/ISSR v ISGR/DSC_2416.NEF.jpg",
@@ -1089,7 +1084,6 @@
       15
     ]
   },
-
   {
     "match": "ISSR v ISGR",
     "path": "photos/ISSR v ISGR/DSC_2560.NEF.jpg",
@@ -1127,7 +1121,6 @@
       19
     ]
   },
-
   {
     "match": "ISSR v ISGR",
     "path": "photos/ISSR v ISGR/DSC_2594.NEF.jpg",
@@ -1174,7 +1167,6 @@
       8
     ]
   },
-
   {
     "match": "ISSR v ISGR",
     "path": "photos/ISSR v ISGR/DSC_2678.NEF.jpg",
@@ -1356,14 +1348,6 @@
     "path": "photos/ISSR v ISGR/DSC_2879.NEF.jpg",
     "numbers": [
       4,
-      15
-    ]
-  },
-
-  {
-    "match": "ISSR v ISGR",
-    "path": "photos/ISSR v ISGR/DSC_2886.NEF.jpg",
-    "numbers": [
       15
     ]
   },
@@ -1633,13 +1617,6 @@
   },
   {
     "match": "ISSR v ISGR",
-    "path": "photos/ISSR v ISGR/DSC_3371.NEF.jpg",
-    "numbers": [
-      12
-    ]
-  },
-  {
-    "match": "ISSR v ISGR",
     "path": "photos/ISSR v ISGR/DSC_3376.NEF.jpg",
     "numbers": [
       9,
@@ -1663,25 +1640,6 @@
       5,
       7
     ]
-  },
-  {
-    "match": "ISSR v ISGR",
-    "path": "photos/ISSR v ISGR/DSC_3410.NEF.jpg",
-    "numbers": [
-      1
-    ]
-  },
-  {
-    "match": "ISSR v ISGR",
-    "path": "photos/ISSR v ISGR/DSC_3416.NEF.jpg",
-    "numbers": [
-      1
-    ]
-  },
-  {
-    "match": "ISSR v ISGR",
-    "path": "photos/ISSR v ISGR/DSC_3417.NEF.jpg",
-    "numbers": []
   },
   {
     "match": "ISSR v ISGR",
@@ -1712,16 +1670,6 @@
   {
     "match": "ISSR v ISGR",
     "path": "photos/ISSR v ISGR/DSC_3464.NEF.jpg",
-    "numbers": []
-  },
-  {
-    "match": "ISSR v ISGR",
-    "path": "photos/ISSR v ISGR/DSC_3477.NEF.jpg",
-    "numbers": []
-  },
-  {
-    "match": "ISSR v ISGR",
-    "path": "photos/ISSR v ISGR/DSC_3484.NEF.jpg",
     "numbers": []
   },
   {
@@ -1786,13 +1734,6 @@
   },
   {
     "match": "ISSR v SIS",
-    "path": "photos/ISSR v SIS/DSC_1976.NEF.jpg",
-    "numbers": [
-      11
-    ]
-  },
-  {
-    "match": "ISSR v SIS",
     "path": "photos/ISSR v SIS/DSC_1982.NEF.jpg",
     "numbers": [
       4,
@@ -1823,13 +1764,6 @@
       1,
       3,
       13
-    ]
-  },
-  {
-    "match": "ISSR v SIS",
-    "path": "photos/ISSR v SIS/DSC_2008.NEF.jpg",
-    "numbers": [
-      3
     ]
   },
   {
@@ -1928,13 +1862,6 @@
     "path": "photos/ISSR v SIS/DSC_2098.NEF.jpg",
     "numbers": [
       1
-    ]
-  },
-  {
-    "match": "ISSR v SIS",
-    "path": "photos/ISSR v SIS/DSC_2100.NEF.jpg",
-    "numbers": [
-      2
     ]
   },
   {
